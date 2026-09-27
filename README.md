@@ -56,9 +56,8 @@ This project serves as:
 
 ## Author
 
-Sahas Gamage  
-Founder — Code by SG  
-Web Developer
+Lakshay Khandelwal  
+Full-Stack & AI Developer  
 
 ---
 
