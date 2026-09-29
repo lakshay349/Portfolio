@@ -1,4 +1,3 @@
-//https://github.com/hiruGamage
 
 // preloader script............
 var audio = document.getElementById("audioPlayer");

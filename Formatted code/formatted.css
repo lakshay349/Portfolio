@@ -1954,7 +1954,7 @@ transition-duration: 1s;
     .logos{
         gap: 20px;
     }
-     /*https://github.com/hiruGamage*/
+
   }
   @media screen and (max-width:300px) {
     html {
@@ -1983,7 +1983,7 @@ transition-duration: 1s;
         gap: 20px;
     }
   }
-  /* https://github.com/hiruGamage*/
+
   /* responsive code above */
 /*   
 
